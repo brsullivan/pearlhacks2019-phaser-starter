@@ -17,5 +17,10 @@ $ npm install
 $ npm run start 
 ```
 
-### Game Resources - TBD
+### Development Resources
+ - Consult the Phaser 3 [APIs](https://photonstorm.github.io/phaser3-docs/)
+ - Check StackOverflow for [Phaser questions](https://stackoverflow.com/questions/tagged/phaser-framework)
+ - Find me on the Pearl Hacks Slack @Braelyn-CapTech
+
+### Game Resources
 Used with credited artists' permission from https://opengameart.org/
